@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "vishnunandhagopal12345@gmail.com"]
+	url = https://github.com/vishnu7475/SIGN-IN.git
+	fetch = +refs/heads/*:refs/remotes/vishnunandhagopal12345@gmail.com/*
